@@ -5,7 +5,7 @@ Udacity ML Foundations
 Version 1.0
 
 developer:   Kiran
-email:       kiran.dhandarphale@gmail.com
+email:       
 web:         
 
 Running My Fav Movies web site
